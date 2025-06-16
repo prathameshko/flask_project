@@ -3,7 +3,8 @@
     {"id": 2, "name": "Bob", "age": 30},
     {"id": 3, "name": "Charlie", "age": 22},
     {"id": 4, "name": "Ameya" , "age": 18},
-    {"id": 5, "name": "meya" , "age": 19}
+    {"id": 5, "name": "meya" , "age": 19},
+    {"id": 6, "name": "peya" , "age": 39}
 
   ]
   
